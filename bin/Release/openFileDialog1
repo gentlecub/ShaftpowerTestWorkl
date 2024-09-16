@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xmlPara xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <numberOfTCFIs>3</numberOfTCFIs>
+  <tcfis>
+    <nRows>3</nRows>
+    <nCells>5</nCells>
+    <lst>
+      <string>1 Main Engine</string>
+      <string>1000</string>
+      <string>50</string>
+      <string>950</string>
+      <string>51</string>
+      <string>2 Aux Engine </string>
+      <string>900</string>
+      <string>60</string>
+      <string>850</string>
+      <string>61</string>
+      <string>3 Boiler     </string>
+      <string>800</string>
+      <string>70</string>
+      <string>750</string>
+      <string>71</string>
+    </lst>
+  </tcfis>
+  <shaftpower>
+    <nRows>10</nRows>
+    <nCells>5</nCells>
+    <lst>
+      <string />
+      <string>900</string>
+      <string>3100</string>
+      <string>90</string>
+      <string>1</string>
+      <string />
+      <string>800</string>
+      <string>3000</string>
+      <string>100</string>
+      <string>1</string>
+      <string />
+      <string>700</string>
+      <string>2900</string>
+      <string>110</string>
+      <string>1</string>
+      <string />
+      <string>600</string>
+      <string>2800</string>
+      <string>120</string>
+      <string>1</string>
+      <string />
+      <string>500</string>
+      <string>2700</string>
+      <string>130</string>
+      <string>1</string>
+      <string />
+      <string>400</string>
+      <string>2600</string>
+      <string>140</string>
+      <string>1</string>
+      <string />
+      <string>300</string>
+      <string>2500</string>
+      <string>150</string>
+      <string>1</string>
+      <string />
+      <string>200</string>
+      <string>2400</string>
+      <string>160</string>
+      <string>1</string>
+      <string />
+      <string>100</string>
+      <string>2300</string>
+      <string>170</string>
+      <string>1</string>
+      <string />
+      <string>0</string>
+      <string>2200</string>
+      <string>180</string>
+      <string>1</string>
+    </lst>
+  </shaftpower>
+  <comportNMEA>COM3</comportNMEA>
+  <comportShaftpower>COM4</comportShaftpower>
+  <gpsEnabled>false</gpsEnabled>
+  <speedlogEnabled>true</speedlogEnabled>
+  <shaftpowerEnabled>true</shaftpowerEnabled>
+</xmlPara>

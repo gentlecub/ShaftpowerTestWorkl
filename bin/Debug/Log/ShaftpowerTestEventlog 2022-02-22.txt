@@ -1,0 +1,14 @@
+22.02.2022 08:59:18,415; ShaftpowerTest start
+22.02.2022 08:59:35,009; Error: PCAN init
+22.02.2022 08:59:43,902; The semaphore timeout period has expired.
+ StackTrace:    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ShaftpowerTest.Form1.comboBoxShaftpowerPort_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\karl.bastos\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\Form1.cs:line 407
+22.02.2022 09:01:45,452; ShaftpowerTest start
+22.02.2022 09:01:47,047; Error: PCAN init
+22.02.2022 09:01:52,458; The semaphore timeout period has expired.
+ StackTrace:    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at ShaftpowerTest.Form1.comboBoxShaftpowerPort_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\karl.bastos\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\Form1.cs:line 407

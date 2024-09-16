@@ -1,0 +1,18 @@
+18.08.2022 12:07:55,233; ShaftpowerTest start
+18.08.2022 12:07:55,852; Error: PCAN init
+18.08.2022 12:09:22,973; ShaftpowerTest start
+18.08.2022 12:09:24,926; Error: PCAN init
+18.08.2022 12:09:53,292; ShaftpowerTest start
+18.08.2022 12:10:16,817; Error: PCAN init
+18.08.2022 15:54:21,14; ShaftpowerTest start
+18.08.2022 15:54:24,367; Error: PCAN init
+18.08.2022 15:55:38,394; ShaftpowerTest start
+18.08.2022 15:55:40,348; Error: PCAN init
+18.08.2022 16:01:04,712; ShaftpowerTest start
+18.08.2022 16:01:05,367; Error: PCAN init
+18.08.2022 16:02:06,96; ShaftpowerTest start
+18.08.2022 16:02:07,545; Error: PCAN init
+18.08.2022 16:06:56,002; ShaftpowerTest start
+18.08.2022 16:06:56,557; Error: PCAN init
+18.08.2022 16:10:44,75; ShaftpowerTest start
+18.08.2022 16:10:45,244; Error: PCAN init

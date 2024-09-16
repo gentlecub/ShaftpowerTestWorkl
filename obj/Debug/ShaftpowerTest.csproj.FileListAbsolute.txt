@@ -1,0 +1,367 @@
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\PCAN_PCI.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\PCAN_USB.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.exe.config
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.exe
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.pdb
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.Form1.resources
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.Properties.Resources.resources
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.GenerateResource.cache
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.CoreCompileInputs.cache
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.CopyComplete
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.exe
+C:\Projects\CM\CMG.Products\Entwicklung\Projekte\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.pdb
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\PCAN_PCI.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\PCAN_USB.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.exe.config
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.exe
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.pdb
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.Form1.resources
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.Properties.Resources.resources
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.GenerateResource.cache
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.CoreCompileInputs.cache
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.CopyComplete
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.exe
+C:\Projects\CM\SPEAT\Tools\Development.Tools\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.pdb
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\PCAN_PCI.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\PCAN_USB.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.exe.config
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.exe
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.pdb
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.AssemblyReference.cache
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.Form1.resources
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.Properties.Resources.resources
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.GenerateResource.cache
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.CoreCompileInputs.cache
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.CopyComplete
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.exe
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.pdb
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\PCAN_PCI.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\PCAN_USB.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.exe.config
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.exe
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.pdb
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.AssemblyReference.cache
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.Form1.resources
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.Properties.Resources.resources
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.GenerateResource.cache
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.CoreCompileInputs.cache
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\obj\Debug\Shaftpow.4EED29C2.Up2Date
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.exe
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.pdb
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\PCAN_PCI.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\PCAN_USB.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.exe.config
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.exe
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.pdb
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.AssemblyReference.cache
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.Form1.resources
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.Properties.Resources.resources
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.GenerateResource.cache
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.CoreCompileInputs.cache
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\obj\Debug\Shaftpow.4EED29C2.Up2Date
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.exe
+C:\Users\magnus.ekman\OneDrive - Chris-Marine AB\Desktop\Shaftpower Old\Shaftpower v1.0\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.pdb
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\PCAN_PCI.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\PCAN_USB.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.exe.config
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.exe
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.pdb
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Data.v21.2.xml
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Office.v21.2.Core.xml
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Utils.v21.2.xml
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+E:\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.AssemblyReference.cache
+E:\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.Form1.resources
+E:\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.Properties.Resources.resources
+E:\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.GenerateResource.cache
+E:\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.CoreCompileInputs.cache
+E:\ShaftpowerTest\ShaftpowerTest\obj\Debug\Shaftpow.4EED29C2.Up2Date
+E:\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.exe
+E:\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.pdb
+D:\Study\ShaftpowerTest\ShaftpowerTest\bin\Debug\PCAN_PCI.dll
+D:\Study\ShaftpowerTest\ShaftpowerTest\bin\Debug\PCAN_USB.dll
+D:\Study\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.exe.config
+D:\Study\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.exe
+D:\Study\ShaftpowerTest\ShaftpowerTest\bin\Debug\ShaftpowerTest.pdb
+D:\Study\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.AssemblyReference.cache
+D:\Study\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.Form1.resources
+D:\Study\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.Properties.Resources.resources
+D:\Study\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.GenerateResource.cache
+D:\Study\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.csproj.CoreCompileInputs.cache
+D:\Study\ShaftpowerTest\ShaftpowerTest\obj\Debug\Shaftpow.4EED29C2.Up2Date
+D:\Study\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.exe
+D:\Study\ShaftpowerTest\ShaftpowerTest\obj\Debug\ShaftpowerTest.pdb

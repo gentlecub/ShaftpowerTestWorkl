@@ -1,0 +1,34 @@
+13.09.2024 08:58:00,099; ShaftpowerTest start
+13.09.2024 08:58:04,847; Error: PCAN init
+13.09.2024 09:27:16,21; ShaftpowerTest start
+13.09.2024 09:27:21,012; Error: PCAN init
+13.09.2024 09:57:25,849; ShaftpowerTest start
+13.09.2024 09:57:28,892; Error: PCAN init
+13.09.2024 09:58:16,575; ShaftpowerTest start
+13.09.2024 09:58:21,006; Error: PCAN init
+13.09.2024 10:04:55,749; ShaftpowerTest start
+13.09.2024 10:04:59,459; Error: PCAN init
+13.09.2024 10:12:47,017; ShaftpowerTest start
+13.09.2024 10:12:49,807; Error: PCAN init
+13.09.2024 10:18:15,195; ShaftpowerTest start
+13.09.2024 10:18:18,337; Error: PCAN init
+13.09.2024 10:30:21,963; ShaftpowerTest start
+13.09.2024 10:30:25,421; Error: PCAN init
+13.09.2024 10:32:26,835; ShaftpowerTest start
+13.09.2024 10:32:30,277; Error: PCAN init
+13.09.2024 10:59:55,739; ShaftpowerTest start
+13.09.2024 11:00:01,559; Error: PCAN init
+13.09.2024 11:12:29,537; ShaftpowerTest start
+13.09.2024 11:12:33,071; Error: PCAN init
+13.09.2024 11:14:20,732; ShaftpowerTest start
+13.09.2024 11:14:24,162; Error: PCAN init
+13.09.2024 11:20:26,819; ShaftpowerTest start
+13.09.2024 11:20:30,073; Error: PCAN init
+13.09.2024 11:23:26,841; ShaftpowerTest start
+13.09.2024 11:23:29,773; Error: PCAN init
+13.09.2024 11:24:39,309; ShaftpowerTest start
+13.09.2024 11:24:42,753; Error: PCAN init
+13.09.2024 11:25:58,127; ShaftpowerTest start
+13.09.2024 11:26:01,271; Error: PCAN init
+13.09.2024 11:56:57,903; ShaftpowerTest start
+13.09.2024 11:57:07,986; Error: PCAN init

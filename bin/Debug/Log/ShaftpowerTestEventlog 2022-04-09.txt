@@ -1,0 +1,4 @@
+09.04.2022 08:27:02,906; ShaftpowerTest start
+09.04.2022 08:28:05,279; ShaftpowerTest start
+09.04.2022 08:28:33,89; Error: PCAN init
+09.04.2022 08:29:10,227; ShaftpowerTest start

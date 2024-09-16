@@ -1,0 +1,2 @@
+20.02.2024 13:23:45,96; ShaftpowerTest start
+20.02.2024 13:23:51,406; PCAN init: OK
