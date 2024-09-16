@@ -359,12 +359,7 @@ namespace ShaftpowerTest
         
         static bool toggle = false;
         static int nextindex = 0;
-        private void ProcessTextBoxToNmeaString()
-        {
-           
-
-            // Puedes hacer otras operaciones con nmeaString si lo necesitas
-        }
+        
 
         private Dictionary<CheckBox, bool> checkBoxTextAdded = new Dictionary<CheckBox, bool>();
 
@@ -398,20 +393,7 @@ namespace ShaftpowerTest
                 checkBoxTextAdded[checkBox] = false;
             }
         }
-        private bool ProcessNmeaString(string nmeaString, string identifier)
-        {
-            // Dividir la cadena por comas
-            string[] nmeaParts = nmeaString.Split(',');
-            nmeaParts[0] = nmeaParts[0].TrimStart('\n','\r');
-
-            // Verificar si la primera parte contiene el signo de dólar y empieza con el identificador correcto
-            if (nmeaParts.Length > 0 && nmeaParts[0].StartsWith("$") && nmeaParts[0].Substring(1).Contains(identifier))
-            {
-                return true;  // Coincidencia encontrada
-            }
-
-            return false;  // No coincide
-        }
+        
 
         public string ProcessNmeaLine(string nmeaLine)
         {
@@ -494,13 +476,14 @@ namespace ShaftpowerTest
             }
             return string.Empty;
         }
+        string linesFromText;
         private void timerNMEA_Tick(object sender, EventArgs e)
         {
             string[] nmeaString;
             string[] nmeaStringaux;
            
             // Obtener todas las líneas del TextBox (separadas por nueva línea)
-            string linesFromText = textBox4.Text.TrimStart('\r', '\n'); // textBoxInput es el nombre de tu TextBox
+            linesFromText = textBox4.Text.TrimStart('\r', '\n'); // textBoxInput es el nombre de tu TextBox
             string[] linesFromTextBox = linesFromText.Split('\r');
 
             for (int i = 0; i < linesFromTextBox.Length; i++)
@@ -560,52 +543,35 @@ namespace ShaftpowerTest
                         linesFromTextBox[i] = concatenatedStringGll;
                         break;
                     case "VBW":
-                        string concatenatedStringVbw = linesFromTextBox[i].TrimStart('\n', '\r');
-                        concatenatedStringVbw += "*" + Checksum(concatenatedStringVbw).ToString("X2");
-                        linesFromTextBox[i] += "\r\n";
+                        string concatenatedStringVbw = ProcessNmeaLine(linesFromTextBox[i]);
                         linesFromTextBox[i] = concatenatedStringVbw;
                         break;
                     case "VTG":
-                        string concatenatedStringVtg = linesFromTextBox[i].TrimStart('\n', '\r');
-                        concatenatedStringVtg += "*" + Checksum(concatenatedStringVtg).ToString("X2");
-                        linesFromTextBox[i] += "\r\n";
+                        string concatenatedStringVtg = ProcessNmeaLine(linesFromTextBox[i]);
                         linesFromTextBox[i] = concatenatedStringVtg;
                         break;
                     case "OSD":
-                        string concatenatedStringOsd = linesFromTextBox[i].TrimStart('\n', '\r');
-                        concatenatedStringOsd += "*" + Checksum(concatenatedStringOsd).ToString("X2");
-                        linesFromTextBox[i] += "\r\n";
+                        string concatenatedStringOsd = ProcessNmeaLine(linesFromTextBox[i]);
                         linesFromTextBox[i] = concatenatedStringOsd;
                         break;
                     case "HDG":
-                        string concatenatedStringHdg = linesFromTextBox[i].TrimStart('\n', '\r');
-                        concatenatedStringHdg += "*" + Checksum(concatenatedStringHdg).ToString("X2");
-                        linesFromTextBox[i] += "\r\n";
+                        string concatenatedStringHdg = ProcessNmeaLine(linesFromTextBox[i]);
                         linesFromTextBox[i] = concatenatedStringHdg;
                         break;
                     case "DBK":
-                        string concatenatedStringDbk = linesFromTextBox[i].TrimStart('\n', '\r');
-                        concatenatedStringDbk += "*" + Checksum(concatenatedStringDbk).ToString("X2");
-                        linesFromTextBox[i] += "\r\n";
+                        string concatenatedStringDbk = ProcessNmeaLine(linesFromTextBox[i]);
                         linesFromTextBox[i] = concatenatedStringDbk;
                         break;
                     case "DPT":
-                        string concatenatedStringDpt = linesFromTextBox[i].TrimStart('\n', '\r');
-                        concatenatedStringDpt += "*" + Checksum(concatenatedStringDpt).ToString("X2");
-                        linesFromTextBox[i] += "\r\n";
+                        string concatenatedStringDpt = ProcessNmeaLine(linesFromTextBox[i]);
                         linesFromTextBox[i] = concatenatedStringDpt;
                         break;
                     case "MWV":
-                        string concatenatedStringMwv = linesFromTextBox[i].TrimStart('\n', '\r');
-                        concatenatedStringMwv += "*" + Checksum(concatenatedStringMwv).ToString("X2");
-                        linesFromTextBox[i] += "\r\n";
+                        string concatenatedStringMwv = ProcessNmeaLine(linesFromTextBox[i]);
                         linesFromTextBox[i] = concatenatedStringMwv;
                         break;
                     case "RSA":
                         string concatenatedStringRsa = ProcessNmeaLine(linesFromTextBox[i]);
-                        linesFromTextBox[i].TrimStart('\n', '\r');
-                        concatenatedStringRsa += "*" + Checksum(concatenatedStringRsa).ToString("X2");
-                        linesFromTextBox[i] += "\r\n";
                         linesFromTextBox[i] = concatenatedStringRsa;
                         break;
                 }
@@ -1246,6 +1212,11 @@ namespace ShaftpowerTest
         {
             string texBoxRsa = "$GPRSA,22.3,A,-15.7,A";
             HandleCheckBox(checkBoxRsa, textBox4, texBoxRsa);
+        }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+            linesFromText = textBox4.Text;
         }
     }
 
