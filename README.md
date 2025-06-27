@@ -39,7 +39,7 @@ This tool is designed for configuring and testing the LEMAG Shaftpower and SPEAT
 ### 🔧 NMEA Signal Configuration  
 Configuration panel for enabling and customizing GPS, Speed, Compass, Echo Sounder, Rudder, and Anemometer outputs:
 
-![NMEA Output Config](./Screenshot%202024-12-09%20184340.png)
+![NMEA Output Config](./nmea_output.png)
 
 ---
 
@@ -47,5 +47,5 @@ Configuration panel for enabling and customizing GPS, Speed, Compass, Echo Sound
 ### 🔌 I/O Subsystem Emulation  
 Digital and analog output simulation interface with Wago/Beijer selection, status display, and live analog values:
 
-![I/O Output Config](./Screenshot%202024-12-09%20184547.png)
+![I/O Output Config](./io_output.png)
 
